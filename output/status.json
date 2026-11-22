@@ -1,14 +1,13 @@
 {
-  "updated_at": "2026-11-22 04:25:29",
+  "updated_at": "2026-11-22 17:30:43",
   "repo": "ayo5cuo/tvbox",
   "sources": [
     {
       "id": "feimao",
       "name": "肥猫",
       "ok": true,
-      "used_url": "(缓存)",
-      "error": "401 Client Error:  for url: https://6296.kstore.vip/facat.json",
-      "cached": true
+      "used_url": "https://6296.kstore.vip/facat.json",
+      "error": null
     },
     {
       "id": "fantaiying",
